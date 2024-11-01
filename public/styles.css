@@ -1,0 +1,34 @@
+body {
+  background: Bisque;
+  text-align: center;
+}
+h1 {
+  color: IndianRed;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bolder;
+}
+
+
+input[type=text] {
+  width: 60%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background-color: OldLace;
+  border: 3px solid #555;
+}
+::placeholder
+{
+  text-align: center;
+}
+
+.title{
+  color: Olive;
+}
+
+.url
+{
+  color: RebeccaPurple;
+}
+
+
